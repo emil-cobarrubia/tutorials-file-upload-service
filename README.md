@@ -1,17 +1,17 @@
 # PatientManager-API-BackEnd-Eval
 
 
-**Set the Database connection**
+# Set the Database connection
 In the PatientManager-API-Backend-Eval\Contexts\PrototypesDevContext.cs, update the connection strings to a database you have access to.
 
-**Create the Table**
+# Create the Patients Table
 This solution makes use of only one table, PATIENTS.
 Create the PATIENTS table, using the file, PatientManager-API-Backend-Eval\Contexts\SQL-CreateTable-Patients.sql.
 
-**Run the Solution; test the API in Swagger**
+# Run the Solution; test the API in Swagger
 Once a Database has been connected and the PATIENTS table created, the API can now run locally.
 
-**Make note of the API URL**
+# Make note of the API URL
 You'll need to keep track of two URLs for two different API controllers.
 1. Patients API URL
 2. FileUplaod API URL
