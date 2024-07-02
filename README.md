@@ -1,7 +1,7 @@
 # tutorials-file-upload-service
 
 ## Disclaimer
-This application is intended to be for evaluation and educational purposes only.  This should not be used for processing or holding real data.
+This application is intended to be for educational purposes only.  This should not be used for processing or holding real data.
 
 ## Set the Database connection
 In the `PatientManager-API-Backend-Eval\Contexts\PrototypesDevContext.cs`, update the connection strings to a database you have access to.
