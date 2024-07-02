@@ -1,4 +1,4 @@
-# PatientManager-API-BackEnd-Eval
+# tutorials-file-upload-service
 
 ## Disclaimer
 This application is intended to be for evaluation and educational purposes only.  This should not be used for processing or holding real data.
